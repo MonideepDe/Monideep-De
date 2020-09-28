@@ -1,4 +1,5 @@
 ## Career Highlights
-- **11 years** of industry experience
-- Worked on **Machine Learning**, Open-source (networking tools), storage and telecom projects
-- 
+- **Machine learning engineer** with **11 years** of industry experience
+- Analytical software polyglot with experience in **product engineering, team leading, architecture, and release management**
+- Strong **product engineering** experience in leading **enterprise storage, telecommunication, and open-source networking products**
+- Proven expertise in multiple software systems and systems maintenance through software engineering initiatives and team development.
